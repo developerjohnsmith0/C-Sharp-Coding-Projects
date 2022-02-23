@@ -1,0 +1,16 @@
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/console_app/obj/Debug/net5.0/console_app.csproj.AssemblyReference.cache
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/console_app/obj/Debug/net5.0/console_app.GeneratedMSBuildEditorConfig.editorconfig
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/console_app/obj/Debug/net5.0/console_app.AssemblyInfoInputs.cache
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/console_app/obj/Debug/net5.0/console_app.AssemblyInfo.cs
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/console_app/obj/Debug/net5.0/console_app.csproj.CoreCompileInputs.cache
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/console_app/bin/Debug/net5.0/console_app
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/console_app/bin/Debug/net5.0/console_app.deps.json
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/console_app/bin/Debug/net5.0/console_app.runtimeconfig.json
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/console_app/bin/Debug/net5.0/console_app.runtimeconfig.dev.json
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/console_app/bin/Debug/net5.0/console_app.dll
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/console_app/bin/Debug/net5.0/ref/console_app.dll
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/console_app/bin/Debug/net5.0/console_app.pdb
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/console_app/obj/Debug/net5.0/console_app.dll
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/console_app/obj/Debug/net5.0/ref/console_app.dll
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/console_app/obj/Debug/net5.0/console_app.pdb
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/console_app/obj/Debug/net5.0/console_app.genruntimeconfig.cache
