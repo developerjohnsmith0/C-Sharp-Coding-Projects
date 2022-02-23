@@ -1,0 +1,16 @@
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/Array_Assignment/bin/Debug/net5.0/Array_Assignment
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/Array_Assignment/bin/Debug/net5.0/Array_Assignment.deps.json
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/Array_Assignment/bin/Debug/net5.0/Array_Assignment.runtimeconfig.json
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/Array_Assignment/bin/Debug/net5.0/Array_Assignment.runtimeconfig.dev.json
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/Array_Assignment/bin/Debug/net5.0/Array_Assignment.dll
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/Array_Assignment/bin/Debug/net5.0/ref/Array_Assignment.dll
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/Array_Assignment/bin/Debug/net5.0/Array_Assignment.pdb
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/Array_Assignment/obj/Debug/net5.0/Array_Assignment.csproj.AssemblyReference.cache
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/Array_Assignment/obj/Debug/net5.0/Array_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/Array_Assignment/obj/Debug/net5.0/Array_Assignment.AssemblyInfoInputs.cache
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/Array_Assignment/obj/Debug/net5.0/Array_Assignment.AssemblyInfo.cs
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/Array_Assignment/obj/Debug/net5.0/Array_Assignment.csproj.CoreCompileInputs.cache
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/Array_Assignment/obj/Debug/net5.0/Array_Assignment.dll
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/Array_Assignment/obj/Debug/net5.0/ref/Array_Assignment.dll
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/Array_Assignment/obj/Debug/net5.0/Array_Assignment.pdb
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/Array_Assignment/obj/Debug/net5.0/Array_Assignment.genruntimeconfig.cache
