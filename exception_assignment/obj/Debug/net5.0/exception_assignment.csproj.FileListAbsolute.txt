@@ -1,0 +1,16 @@
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/exception_assignment/bin/Debug/net5.0/exception_assignment
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/exception_assignment/bin/Debug/net5.0/exception_assignment.deps.json
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/exception_assignment/bin/Debug/net5.0/exception_assignment.runtimeconfig.json
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/exception_assignment/bin/Debug/net5.0/exception_assignment.runtimeconfig.dev.json
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/exception_assignment/bin/Debug/net5.0/exception_assignment.dll
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/exception_assignment/bin/Debug/net5.0/ref/exception_assignment.dll
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/exception_assignment/bin/Debug/net5.0/exception_assignment.pdb
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/exception_assignment/obj/Debug/net5.0/exception_assignment.csproj.AssemblyReference.cache
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/exception_assignment/obj/Debug/net5.0/exception_assignment.GeneratedMSBuildEditorConfig.editorconfig
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/exception_assignment/obj/Debug/net5.0/exception_assignment.AssemblyInfoInputs.cache
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/exception_assignment/obj/Debug/net5.0/exception_assignment.AssemblyInfo.cs
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/exception_assignment/obj/Debug/net5.0/exception_assignment.csproj.CoreCompileInputs.cache
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/exception_assignment/obj/Debug/net5.0/exception_assignment.dll
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/exception_assignment/obj/Debug/net5.0/ref/exception_assignment.dll
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/exception_assignment/obj/Debug/net5.0/exception_assignment.pdb
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/exception_assignment/obj/Debug/net5.0/exception_assignment.genruntimeconfig.cache
