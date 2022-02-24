@@ -1,0 +1,16 @@
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/class_and_methods_3/obj/Debug/net5.0/class_and_methods_3.csproj.AssemblyReference.cache
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/class_and_methods_3/obj/Debug/net5.0/class_and_methods_3.GeneratedMSBuildEditorConfig.editorconfig
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/class_and_methods_3/obj/Debug/net5.0/class_and_methods_3.AssemblyInfoInputs.cache
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/class_and_methods_3/obj/Debug/net5.0/class_and_methods_3.AssemblyInfo.cs
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/class_and_methods_3/obj/Debug/net5.0/class_and_methods_3.csproj.CoreCompileInputs.cache
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/class_and_methods_3/bin/Debug/net5.0/class_and_methods_3
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/class_and_methods_3/bin/Debug/net5.0/class_and_methods_3.deps.json
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/class_and_methods_3/bin/Debug/net5.0/class_and_methods_3.runtimeconfig.json
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/class_and_methods_3/bin/Debug/net5.0/class_and_methods_3.runtimeconfig.dev.json
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/class_and_methods_3/bin/Debug/net5.0/class_and_methods_3.dll
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/class_and_methods_3/bin/Debug/net5.0/ref/class_and_methods_3.dll
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/class_and_methods_3/bin/Debug/net5.0/class_and_methods_3.pdb
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/class_and_methods_3/obj/Debug/net5.0/class_and_methods_3.dll
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/class_and_methods_3/obj/Debug/net5.0/ref/class_and_methods_3.dll
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/class_and_methods_3/obj/Debug/net5.0/class_and_methods_3.pdb
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/class_and_methods_3/obj/Debug/net5.0/class_and_methods_3.genruntimeconfig.cache
