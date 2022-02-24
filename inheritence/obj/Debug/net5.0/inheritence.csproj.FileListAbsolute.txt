@@ -1,0 +1,16 @@
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/inheritence/bin/Debug/net5.0/inheritence
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/inheritence/bin/Debug/net5.0/inheritence.deps.json
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/inheritence/bin/Debug/net5.0/inheritence.runtimeconfig.json
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/inheritence/bin/Debug/net5.0/inheritence.runtimeconfig.dev.json
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/inheritence/bin/Debug/net5.0/inheritence.dll
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/inheritence/bin/Debug/net5.0/ref/inheritence.dll
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/inheritence/bin/Debug/net5.0/inheritence.pdb
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/inheritence/obj/Debug/net5.0/inheritence.csproj.AssemblyReference.cache
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/inheritence/obj/Debug/net5.0/inheritence.GeneratedMSBuildEditorConfig.editorconfig
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/inheritence/obj/Debug/net5.0/inheritence.AssemblyInfoInputs.cache
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/inheritence/obj/Debug/net5.0/inheritence.AssemblyInfo.cs
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/inheritence/obj/Debug/net5.0/inheritence.csproj.CoreCompileInputs.cache
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/inheritence/obj/Debug/net5.0/inheritence.dll
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/inheritence/obj/Debug/net5.0/ref/inheritence.dll
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/inheritence/obj/Debug/net5.0/inheritence.pdb
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/inheritence/obj/Debug/net5.0/inheritence.genruntimeconfig.cache
