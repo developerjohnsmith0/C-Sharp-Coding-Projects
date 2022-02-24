@@ -1,0 +1,16 @@
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/Additional_Features/bin/Debug/net5.0/Additional_Features
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/Additional_Features/bin/Debug/net5.0/Additional_Features.deps.json
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/Additional_Features/bin/Debug/net5.0/Additional_Features.runtimeconfig.json
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/Additional_Features/bin/Debug/net5.0/Additional_Features.runtimeconfig.dev.json
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/Additional_Features/bin/Debug/net5.0/Additional_Features.dll
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/Additional_Features/bin/Debug/net5.0/ref/Additional_Features.dll
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/Additional_Features/bin/Debug/net5.0/Additional_Features.pdb
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/Additional_Features/obj/Debug/net5.0/Additional_Features.csproj.AssemblyReference.cache
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/Additional_Features/obj/Debug/net5.0/Additional_Features.GeneratedMSBuildEditorConfig.editorconfig
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/Additional_Features/obj/Debug/net5.0/Additional_Features.AssemblyInfoInputs.cache
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/Additional_Features/obj/Debug/net5.0/Additional_Features.AssemblyInfo.cs
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/Additional_Features/obj/Debug/net5.0/Additional_Features.csproj.CoreCompileInputs.cache
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/Additional_Features/obj/Debug/net5.0/Additional_Features.dll
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/Additional_Features/obj/Debug/net5.0/ref/Additional_Features.dll
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/Additional_Features/obj/Debug/net5.0/Additional_Features.pdb
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/Additional_Features/obj/Debug/net5.0/Additional_Features.genruntimeconfig.cache
