@@ -1,0 +1,16 @@
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/class_and_methods_2/bin/Debug/net5.0/class_and_methods_2
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/class_and_methods_2/bin/Debug/net5.0/class_and_methods_2.deps.json
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/class_and_methods_2/bin/Debug/net5.0/class_and_methods_2.runtimeconfig.json
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/class_and_methods_2/bin/Debug/net5.0/class_and_methods_2.runtimeconfig.dev.json
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/class_and_methods_2/bin/Debug/net5.0/class_and_methods_2.dll
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/class_and_methods_2/bin/Debug/net5.0/ref/class_and_methods_2.dll
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/class_and_methods_2/bin/Debug/net5.0/class_and_methods_2.pdb
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/class_and_methods_2/obj/Debug/net5.0/class_and_methods_2.csproj.AssemblyReference.cache
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/class_and_methods_2/obj/Debug/net5.0/class_and_methods_2.GeneratedMSBuildEditorConfig.editorconfig
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/class_and_methods_2/obj/Debug/net5.0/class_and_methods_2.AssemblyInfoInputs.cache
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/class_and_methods_2/obj/Debug/net5.0/class_and_methods_2.AssemblyInfo.cs
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/class_and_methods_2/obj/Debug/net5.0/class_and_methods_2.csproj.CoreCompileInputs.cache
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/class_and_methods_2/obj/Debug/net5.0/class_and_methods_2.dll
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/class_and_methods_2/obj/Debug/net5.0/ref/class_and_methods_2.dll
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/class_and_methods_2/obj/Debug/net5.0/class_and_methods_2.pdb
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/class_and_methods_2/obj/Debug/net5.0/class_and_methods_2.genruntimeconfig.cache
