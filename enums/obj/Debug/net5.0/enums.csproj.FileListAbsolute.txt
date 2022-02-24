@@ -1,0 +1,16 @@
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/enums/bin/Debug/net5.0/enums
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/enums/bin/Debug/net5.0/enums.deps.json
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/enums/bin/Debug/net5.0/enums.runtimeconfig.json
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/enums/bin/Debug/net5.0/enums.runtimeconfig.dev.json
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/enums/bin/Debug/net5.0/enums.dll
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/enums/bin/Debug/net5.0/ref/enums.dll
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/enums/bin/Debug/net5.0/enums.pdb
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/enums/obj/Debug/net5.0/enums.csproj.AssemblyReference.cache
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/enums/obj/Debug/net5.0/enums.GeneratedMSBuildEditorConfig.editorconfig
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/enums/obj/Debug/net5.0/enums.AssemblyInfoInputs.cache
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/enums/obj/Debug/net5.0/enums.AssemblyInfo.cs
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/enums/obj/Debug/net5.0/enums.csproj.CoreCompileInputs.cache
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/enums/obj/Debug/net5.0/enums.dll
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/enums/obj/Debug/net5.0/ref/enums.dll
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/enums/obj/Debug/net5.0/enums.pdb
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/enums/obj/Debug/net5.0/enums.genruntimeconfig.cache
