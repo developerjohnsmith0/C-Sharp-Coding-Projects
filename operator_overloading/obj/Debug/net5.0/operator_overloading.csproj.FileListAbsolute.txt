@@ -1,0 +1,16 @@
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/operator_overloading/obj/Debug/net5.0/operator_overloading.csproj.AssemblyReference.cache
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/operator_overloading/obj/Debug/net5.0/operator_overloading.GeneratedMSBuildEditorConfig.editorconfig
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/operator_overloading/obj/Debug/net5.0/operator_overloading.AssemblyInfoInputs.cache
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/operator_overloading/obj/Debug/net5.0/operator_overloading.AssemblyInfo.cs
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/operator_overloading/obj/Debug/net5.0/operator_overloading.csproj.CoreCompileInputs.cache
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/operator_overloading/bin/Debug/net5.0/operator_overloading
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/operator_overloading/bin/Debug/net5.0/operator_overloading.deps.json
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/operator_overloading/bin/Debug/net5.0/operator_overloading.runtimeconfig.json
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/operator_overloading/bin/Debug/net5.0/operator_overloading.runtimeconfig.dev.json
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/operator_overloading/bin/Debug/net5.0/operator_overloading.dll
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/operator_overloading/bin/Debug/net5.0/ref/operator_overloading.dll
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/operator_overloading/bin/Debug/net5.0/operator_overloading.pdb
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/operator_overloading/obj/Debug/net5.0/operator_overloading.dll
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/operator_overloading/obj/Debug/net5.0/ref/operator_overloading.dll
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/operator_overloading/obj/Debug/net5.0/operator_overloading.pdb
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/operator_overloading/obj/Debug/net5.0/operator_overloading.genruntimeconfig.cache
