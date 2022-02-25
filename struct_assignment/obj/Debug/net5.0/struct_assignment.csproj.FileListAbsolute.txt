@@ -1,0 +1,16 @@
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/struct_assignment/bin/Debug/net5.0/struct_assignment
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/struct_assignment/bin/Debug/net5.0/struct_assignment.deps.json
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/struct_assignment/bin/Debug/net5.0/struct_assignment.runtimeconfig.json
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/struct_assignment/bin/Debug/net5.0/struct_assignment.runtimeconfig.dev.json
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/struct_assignment/bin/Debug/net5.0/struct_assignment.dll
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/struct_assignment/bin/Debug/net5.0/ref/struct_assignment.dll
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/struct_assignment/bin/Debug/net5.0/struct_assignment.pdb
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/struct_assignment/obj/Debug/net5.0/struct_assignment.csproj.AssemblyReference.cache
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/struct_assignment/obj/Debug/net5.0/struct_assignment.GeneratedMSBuildEditorConfig.editorconfig
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/struct_assignment/obj/Debug/net5.0/struct_assignment.AssemblyInfoInputs.cache
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/struct_assignment/obj/Debug/net5.0/struct_assignment.AssemblyInfo.cs
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/struct_assignment/obj/Debug/net5.0/struct_assignment.csproj.CoreCompileInputs.cache
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/struct_assignment/obj/Debug/net5.0/struct_assignment.dll
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/struct_assignment/obj/Debug/net5.0/ref/struct_assignment.dll
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/struct_assignment/obj/Debug/net5.0/struct_assignment.pdb
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/struct_assignment/obj/Debug/net5.0/struct_assignment.genruntimeconfig.cache
