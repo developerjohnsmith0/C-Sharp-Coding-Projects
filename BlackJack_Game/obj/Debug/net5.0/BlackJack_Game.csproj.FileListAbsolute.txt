@@ -1,0 +1,16 @@
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/BlackJack_Game/bin/Debug/net5.0/BlackJack_Game
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/BlackJack_Game/bin/Debug/net5.0/BlackJack_Game.deps.json
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/BlackJack_Game/bin/Debug/net5.0/BlackJack_Game.runtimeconfig.json
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/BlackJack_Game/bin/Debug/net5.0/BlackJack_Game.runtimeconfig.dev.json
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/BlackJack_Game/bin/Debug/net5.0/BlackJack_Game.dll
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/BlackJack_Game/bin/Debug/net5.0/ref/BlackJack_Game.dll
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/BlackJack_Game/bin/Debug/net5.0/BlackJack_Game.pdb
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/BlackJack_Game/obj/Debug/net5.0/BlackJack_Game.csproj.AssemblyReference.cache
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/BlackJack_Game/obj/Debug/net5.0/BlackJack_Game.GeneratedMSBuildEditorConfig.editorconfig
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/BlackJack_Game/obj/Debug/net5.0/BlackJack_Game.AssemblyInfoInputs.cache
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/BlackJack_Game/obj/Debug/net5.0/BlackJack_Game.AssemblyInfo.cs
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/BlackJack_Game/obj/Debug/net5.0/BlackJack_Game.csproj.CoreCompileInputs.cache
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/BlackJack_Game/obj/Debug/net5.0/BlackJack_Game.dll
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/BlackJack_Game/obj/Debug/net5.0/ref/BlackJack_Game.dll
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/BlackJack_Game/obj/Debug/net5.0/BlackJack_Game.pdb
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/BlackJack_Game/obj/Debug/net5.0/BlackJack_Game.genruntimeconfig.cache
