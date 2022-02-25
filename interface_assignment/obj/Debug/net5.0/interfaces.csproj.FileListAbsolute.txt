@@ -1,0 +1,16 @@
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/interface_assignment/bin/Debug/net5.0/interfaces
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/interface_assignment/bin/Debug/net5.0/interfaces.deps.json
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/interface_assignment/bin/Debug/net5.0/interfaces.runtimeconfig.json
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/interface_assignment/bin/Debug/net5.0/interfaces.runtimeconfig.dev.json
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/interface_assignment/bin/Debug/net5.0/interfaces.dll
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/interface_assignment/bin/Debug/net5.0/ref/interfaces.dll
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/interface_assignment/bin/Debug/net5.0/interfaces.pdb
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/interface_assignment/obj/Debug/net5.0/interfaces.csproj.AssemblyReference.cache
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/interface_assignment/obj/Debug/net5.0/interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/interface_assignment/obj/Debug/net5.0/interfaces.AssemblyInfoInputs.cache
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/interface_assignment/obj/Debug/net5.0/interfaces.AssemblyInfo.cs
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/interface_assignment/obj/Debug/net5.0/interfaces.csproj.CoreCompileInputs.cache
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/interface_assignment/obj/Debug/net5.0/interfaces.dll
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/interface_assignment/obj/Debug/net5.0/ref/interfaces.dll
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/interface_assignment/obj/Debug/net5.0/interfaces.pdb
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/interface_assignment/obj/Debug/net5.0/interfaces.genruntimeconfig.cache
