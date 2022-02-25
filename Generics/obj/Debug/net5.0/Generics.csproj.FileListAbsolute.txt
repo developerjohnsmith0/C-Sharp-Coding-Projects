@@ -1,0 +1,16 @@
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/Generics/bin/Debug/net5.0/Generics
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/Generics/bin/Debug/net5.0/Generics.deps.json
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/Generics/bin/Debug/net5.0/Generics.runtimeconfig.json
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/Generics/bin/Debug/net5.0/Generics.runtimeconfig.dev.json
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/Generics/bin/Debug/net5.0/Generics.dll
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/Generics/bin/Debug/net5.0/ref/Generics.dll
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/Generics/bin/Debug/net5.0/Generics.pdb
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/Generics/obj/Debug/net5.0/Generics.csproj.AssemblyReference.cache
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/Generics/obj/Debug/net5.0/Generics.GeneratedMSBuildEditorConfig.editorconfig
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/Generics/obj/Debug/net5.0/Generics.AssemblyInfoInputs.cache
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/Generics/obj/Debug/net5.0/Generics.AssemblyInfo.cs
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/Generics/obj/Debug/net5.0/Generics.csproj.CoreCompileInputs.cache
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/Generics/obj/Debug/net5.0/Generics.dll
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/Generics/obj/Debug/net5.0/ref/Generics.dll
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/Generics/obj/Debug/net5.0/Generics.pdb
+/home/ahtesham/Desktop/Adil_Hashmi/dotNet-2-user-2/Generics/obj/Debug/net5.0/Generics.genruntimeconfig.cache
